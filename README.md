@@ -1,4 +1,4 @@
-# basic python for data science and ai
+# Basic Python for Data Science and AI Course
 
 This project is a requirement for 'Python for Data Science and AI', by Coursera.
 
